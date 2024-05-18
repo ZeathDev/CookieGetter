@@ -1,2 +1,2 @@
 # CookieGetter
-A simple 4399 alt cookie getter tool
+A simple 4399 alt cookie get tool
